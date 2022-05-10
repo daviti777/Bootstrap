@@ -1,0 +1,96 @@
+.collapse {
+    background-color:yellow;
+    border: black solid 4px;
+}
+.image-bar {
+    width: 100px;
+}
+.container-fluid {
+    background-color:white;
+    height: 100px;
+}
+.nav-link {
+   color: white;
+   transition: ease all 0.5s;
+    
+}
+/* slaider stule */
+.carousel-inner {
+    height: 500px;
+   
+}
+.music-line {
+    height: 50px;
+    width: 100%;
+    border: 4px black solid;
+    background-color: yellow;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color:black;
+    font-size: 25px;
+    padding: 5px;
+}
+
+/* cards (first) */
+.d-flex {
+    justify-content: space-around;
+}
+  
+/* audio margins */
+.audio-margin {
+    margin-top: 15px;
+}
+/* images style */
+.image {
+    margin-top: 20px;
+    filter:opacity(40%);
+ 
+}
+.rounded {
+    height: 200px;
+    width: 400px;
+    margin-left:30px;
+    margin-bottom: 15px;
+}
+.image:hover {
+    filter: none;
+    transition: ease all 1.5s;
+}
+/* black coffee */
+.paragrap-coffee {
+    width: 850px;
+    text-align: center;
+    margin: 0 auto;
+    font-style:italic;
+    font-weight: bold;
+    color: grey;
+}
+.paragrap-coffee:hover {
+    transition: ease all 0.5s;
+    color: black;
+}
+.paragrap-artbat {
+    width: 850px;
+    text-align: center;
+    margin: 0 auto;
+    font-style:italic;
+    font-weight: bold;
+    color: grey;
+}
+.paragrap-artbat:hover {
+    transition: ease all 0.5s;
+    color: black;
+}
+.paragrap-adriatique {
+    width: 850px;
+    text-align: center;
+    margin: 0 auto;
+    font-style:italic;
+    font-weight: bold;
+    color: grey;
+}
+.paragrap-adriatique:hover {
+    transition: ease all 0.5s;
+    color: black;
+}
